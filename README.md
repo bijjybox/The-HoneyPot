@@ -1,1 +1,1 @@
-# The-HoneyPot
+Managing the data of existing honeypots with the help of three tier portal which has a frontend of HTML, CSS, Javascript , database backend based on MYSQL with PHP, and a middle layer which sends the queries from backend to frontend and handling the JSON data from other honeypots
